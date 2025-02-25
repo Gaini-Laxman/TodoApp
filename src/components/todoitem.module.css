@@ -11,7 +11,7 @@
 }
 
 .line {
-  border: 1px solid #f4f4f4f4;
+  border: 1px solid #f4f4f4; /* Fixed border color */
   width: 500px;
 }
 
@@ -24,4 +24,10 @@
   margin-top: -5px;
   border-radius: 4px;
   cursor: pointer;
+}
+
+.completed {
+  text-decoration: line-through;
+  text-decoration-color: black;
+  color: red;
 }
