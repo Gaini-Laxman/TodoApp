@@ -16,6 +16,11 @@ Currently, two official plugins are available:
 
 =====================================================================================================
 ![image](https://github.com/user-attachments/assets/fff12c45-8e3f-4e43-b8ae-84882d90bef2)
-![Uploading image.png…]()
+
+
+===========================================================================================
+
+![image](https://github.com/user-attachments/assets/0a8c8dd4-029b-4ebd-9cd8-28696f74b8f6)
+
 
 
